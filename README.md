@@ -179,6 +179,8 @@ This project can be used as a financial analytics prototype for:
 📈 Banking decision-support systems
 🧾 Risk-based loan classification
 🧑‍💼 Financial machine learning portfolio demonstration
+
+
 📁 Folder Structure
 loan-approval-prediction-decision-tree/
 │
@@ -189,11 +191,7 @@ loan-approval-prediction-decision-tree/
 ├── data/
 │   └── Loan.csv
 │
-├── images/
-│   ├── confusion-matrix.png
-│   ├── correlation-heatmap.png
-│   └── loan-purpose-distribution.png
-│
+
 └── docs/
     └── model-insights.md
 📂 Project Files
