@@ -148,7 +148,8 @@ DecisionTreeClassifier(
     random_state=1
 )
 
-🔍 Key Observations
+
+## 🔍 Key Observations
 The dataset contains a wide range of applicant financial and demographic features.
 No missing values were found in the dataset.
 Categorical variables were encoded before model training.
